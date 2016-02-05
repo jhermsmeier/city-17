@@ -19,7 +19,7 @@ var City17 = require( 'city-17' )
 ```js
 var cluster = new City17({
   exec: require.resolve( './worker.js' ),
-  argv: [ '--brutal' ],
+  args: [ '--brutal' ],
   clusterSize: 4, // defaults to `os.cpus().length`
   killTimeout: 5000,
 })

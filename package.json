@@ -1,0 +1,30 @@
+{
+  "name": "city-17",
+  "version": "0.1.0",
+  "description": "Clustering process manager",
+  "license": "MIT",
+  "keywords": [
+    "cluster",
+    "process",
+    "manager"
+  ],
+  "main": "lib/city-17.js",
+  "author": "Jonas Hermsmeier <jhermsmeier@gmail.com> (https://jhermsmeier.de/)",
+  "dependencies": {
+    "debug": "~2.2.0",
+    "bloodline": "~1.0.0",
+    "async": "~1.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/jhermsmeier/city-17",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhermsmeier/city-17.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jhermsmeier/city-17/issues"
+  }
+}

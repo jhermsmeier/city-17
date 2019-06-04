@@ -11,9 +11,9 @@
   "main": "lib/city-17.js",
   "author": "Jonas Hermsmeier <jhermsmeier@gmail.com> (https://jhermsmeier.de/)",
   "dependencies": {
-    "debug": "~2.2.0",
+    "async": "^3.0.1",
     "bloodline": "~1.0.0",
-    "async": "~1.5.2"
+    "debug": "^4.1.1"
   },
   "devDependencies": {},
   "scripts": {
